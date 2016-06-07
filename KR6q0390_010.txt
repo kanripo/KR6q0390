@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:03.556408
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:29
 #+TITLE: 密雲禪師語錄
 #+PROPERTY: CBETA_ID J10nA158
 #+PROPERTY: ID KR6q0390
@@ -13,7 +13,7 @@
  密雲禪師語錄卷第十¶
 嗣法門人通門編¶
 
-頌古¶
+* 頌古¶
 
 「世尊初生。」¶
 
